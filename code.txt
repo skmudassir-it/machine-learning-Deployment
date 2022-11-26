@@ -1,0 +1,8 @@
+pat = "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"
+!git clone https://{pat}@github.com/skmudassir-it/machine-learning-Deployment.git
+%cd machine-learning-Deployment/
+!pwd
+
+!git add .
+!git commit -m new
+!git push
